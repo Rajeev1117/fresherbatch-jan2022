@@ -1,0 +1,60 @@
+body{
+background:pink;
+}
+.content{
+	margin-top:10px;
+	margin-left:5px;
+	margin-right:200px;
+	background:DodgerBlue;
+	padding-bottom:10px;
+	padding-top:5px;
+	padding-left:5px;
+}
+.content1{
+        
+        margin-left:5px;
+        margin-right:200px;
+        background:LightGray;
+        padding-bottom:10px;
+        padding-bottom:10px;
+        padding-left:5px;
+}
+.content2{
+        
+        margin-left:5px;
+        margin-right:200px;
+        background:#ccfffb;
+        padding-bottom:10px;
+        padding-top:5px;
+        padding-left:5px;
+}
+.content3{
+        margin-top:10px;
+        margin-left:5px;
+        margin-right:200px;
+        background:green;
+        padding-bottom:10px;
+        padding-top:5px;
+        padding-left:5px;
+}
+.content4{
+      margin-top:10px;
+      margin-left:5px;
+      margin-right:200px;
+      background:yellow;
+      padding-bottom:10px;
+      padding-top:5px;
+      padding-left:5px;
+}
+
+.content5{
+	margin-top:10px;
+      margin-left:5px;
+      margin-right:200px;
+      background:Blue;
+      padding-bottom:10px;
+      padding-top:5px;
+      padding-left:5px;
+}
+
+
